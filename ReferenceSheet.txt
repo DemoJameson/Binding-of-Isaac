@@ -433,9 +433,9 @@ Triachnid             | 89    |
 Platinum God          | 90    |
 Isaac's Head          | 91    |
 Maggy's Faith         | 92    |
-Cain's Eye            | 93    |
-Judas's Tongue        | 94    |
-Eve's Bird Foot       | 95    |
-???'s Soul            | 96    |
-Samson's Lock         | 97    |
+Judas's Tongue        | 93    |
+???'s Soul            | 94    |
+Samson's Lock         | 95    |
+Cain's Eye            | 96    |
+Eve's Bird Foot       | 97    |
 The Left Hand         | 98    |
